@@ -1,0 +1,10 @@
+{
+    "id": "arxiv-paper-linker",
+    "name": "arXiv Paper Linker",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Convert text selections into links to arXiv papers",
+    "author": "oztoygar",
+    "authorUrl": "https://github.com/oztoygar",
+    "isDesktopOnly": false
+}

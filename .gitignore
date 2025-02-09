@@ -1,0 +1,45 @@
+# Build files
+main.js
+*.js.map
+data.json
+*.js.map
+
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+.history/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Optional: Environment files if you have any
+.env
+.env.local
+.env.*.local
+
+# Optional: Test coverage directory
+coverage/
+
+# Optional: Production build directory
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
